@@ -75,7 +75,7 @@ function App() {
             <CardContent>
               <Typography variant="h6">Pending Tasks</Typography>
               <Typography variant="h5" sx={{ fontWeight: "bold" }}>
-                5
+                4
               </Typography>
             </CardContent>
           </Card>
